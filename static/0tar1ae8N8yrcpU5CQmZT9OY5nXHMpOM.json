@@ -1,0 +1,2612 @@
+{
+    "nodes": [
+        {
+            "name": "",
+            "id": "ko:K02200",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K01522",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03040",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18177",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13411",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K09566",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02886",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko01009",
+            "size": 0.2795425667090216,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K05531",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K05641",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Ribosome (9)",
+            "id": "ko03011",
+            "size": 0.5972045743329097,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K14288",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03043",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18178",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19861",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K11868",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko03036",
+            "size": 0.21601016518424399,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K05643",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02266",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08657",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03426",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K06124",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13223",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18173",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02724",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02878",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13692",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Transporters (7)",
+            "id": "ko02000",
+            "size": 0.4701397712833545,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K00422",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02689",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K17912",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K10528",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19706",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03537",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K09658",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13248",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18551",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K05573",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K01601",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02708",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko01003",
+            "size": 0.15247776365946633,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K03046",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K14495",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02706",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13460",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02924",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K05581",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19373",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K16285",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08742",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02709",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K04122",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K09539",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02696",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03322",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18461",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K09512",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12624",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K05747",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12639",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03945",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13029",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07410",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02697",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Enzymes (77)",
+            "id": "ko01000",
+            "size": 4.917407878017789,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K02634",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Ubiquitin system (13)",
+            "id": "ko04121",
+            "size": 0.8513341804320202,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko03009",
+            "size": 0.15247776365946633,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K18848",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19038",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K17553",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07478",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18858",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko04812",
+            "size": 0.15247776365946633,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K08762",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07426",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13457",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00133",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07192",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08902",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15271",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07890",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko03016",
+            "size": 0.2795425667090216,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K17771",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02690",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12621",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko04031",
+            "size": 0.08894536213468869,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K17972",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02887",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00464",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K04715",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K17783",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00915",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18182",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08903",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03009",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08956",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K04798",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K11844",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K07408",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko03019",
+            "size": 0.21601016518424399,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K01176",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K06611",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02108",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "KEGG Orthology (KO) (157)",
+            "id": "ko00001",
+            "size": 10.0,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K02110",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K10845",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Cytochrome P450 (11)",
+            "id": "ko00199",
+            "size": 0.724269377382465,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K02994",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K05527",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko04147",
+            "size": 0.2795425667090216,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K16290",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13428",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K14398",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12896",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13289",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08504",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15437",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Peptidases and inhibitors (8)",
+            "id": "ko01002",
+            "size": 0.5336721728081322,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko03000",
+            "size": 0.15247776365946633,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K04554",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02986",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02983",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K11672",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15086",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02715",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K10526",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00499",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko01001",
+            "size": 0.08894536213468869,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K02917",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko01006",
+            "size": 0.08894536213468869,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K02950",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Membrane trafficking (9)",
+            "id": "ko04131",
+            "size": 0.5972045743329097,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K17913",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03538",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K06928",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13862",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15360",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18187",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19517",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K10583",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K16296",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00122",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18185",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K17469",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K01531",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K03006",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02718",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K16281",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "DNA repair and recombination proteins (9)",
+            "id": "ko03400",
+            "size": 0.5972045743329097,
+            "group": 2
+        },
+        {
+            "name": "Photosynthesis proteins (16)",
+            "id": "ko00194",
+            "size": 1.0419313850063534,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K15683",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02640",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15718",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19704",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18813",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K09659",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Mitochondrial biogenesis (13)",
+            "id": "ko03029",
+            "size": 0.8513341804320202,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K00750",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12832",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K17292",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K16219",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12127",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K12175",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Spliceosome (5)",
+            "id": "ko03041",
+            "size": 0.34307496823379924,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K01512",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K01444",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K18485",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Transcription machinery (6)",
+            "id": "ko03021",
+            "size": 0.4066073697585769,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K11818",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02153",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K08241",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K11864",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02637",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K01832",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K00416",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K19748",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K02548",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "Chaperones and folding catalysts (8)",
+            "id": "ko03110",
+            "size": 0.5336721728081322,
+            "group": 2
+        },
+        {
+            "name": "",
+            "id": "ko:K17778",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K15235",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K16329",
+            "size": 2,
+            "group": 0
+        },
+        {
+            "name": "",
+            "id": "ko:K13034",
+            "size": 2,
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "ko:K02200",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K01522",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K01522",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03040",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03040",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03040",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K03040",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko:K18177",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18177",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K13411",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13411",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K13411",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K09566",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K09566",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K09566",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K09566",
+            "target": "ko03041"
+        },
+        {
+            "source": "ko:K02886",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02886",
+            "target": "ko03011"
+        },
+        {
+            "source": "ko01009",
+            "target": "ko:K17553"
+        },
+        {
+            "source": "ko01009",
+            "target": "ko:K19704"
+        },
+        {
+            "source": "ko01009",
+            "target": "ko:K13248"
+        },
+        {
+            "source": "ko01009",
+            "target": "ko:K06124"
+        },
+        {
+            "source": "ko:K05531",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05531",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K05641",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05641",
+            "target": "ko02000"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02983"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02924"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02887"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02986"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02994"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02917"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02950"
+        },
+        {
+            "source": "ko03011",
+            "target": "ko:K02878"
+        },
+        {
+            "source": "ko:K14288",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K14288",
+            "target": "ko03016"
+        },
+        {
+            "source": "ko:K03043",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03043",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03043",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K03043",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko:K18178",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18178",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K19861",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K19861",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K11868",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K11868",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K11868",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko03036",
+            "target": "ko:K07192"
+        },
+        {
+            "source": "ko03036",
+            "target": "ko:K11672"
+        },
+        {
+            "source": "ko03036",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko:K05643",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05643",
+            "target": "ko02000"
+        },
+        {
+            "source": "ko:K02266",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08657",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08657",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K08657",
+            "target": "ko01002"
+        },
+        {
+            "source": "ko:K03426",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03426",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K06124",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K06124",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K13223",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13223",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K13223",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K18173",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18173",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K02724",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02724",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K02878",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13692",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13692",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K13692",
+            "target": "ko01003"
+        },
+        {
+            "source": "ko02000",
+            "target": "ko:K13862"
+        },
+        {
+            "source": "ko02000",
+            "target": "ko:K03322"
+        },
+        {
+            "source": "ko02000",
+            "target": "ko:K17469"
+        },
+        {
+            "source": "ko02000",
+            "target": "ko:K17771"
+        },
+        {
+            "source": "ko02000",
+            "target": "ko:K17778"
+        },
+        {
+            "source": "ko:K00422",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K00422",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K02689",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02689",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K17912",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17912",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K10528",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K10528",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K10528",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K19706",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K19706",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03537",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03537",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03537",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K03537",
+            "target": "ko03016"
+        },
+        {
+            "source": "ko:K03537",
+            "target": "ko03009"
+        },
+        {
+            "source": "ko:K09658",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13248",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13248",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K18551",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18551",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K05573",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05573",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K01601",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K01601",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K02708",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02708",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko01003",
+            "target": "ko:K00750"
+        },
+        {
+            "source": "ko:K03046",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03046",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K03046",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K03046",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko:K14495",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K14495",
+            "target": "ko04121"
+        },
+        {
+            "source": "ko:K02706",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02706",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K02706",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K13460",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02924",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05581",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05581",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K19373",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K19373",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K16285",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K16285",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K16285",
+            "target": "ko04121"
+        },
+        {
+            "source": "ko:K08742",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08742",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K08742",
+            "target": "ko04121"
+        },
+        {
+            "source": "ko:K02709",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02709",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K04122",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K04122",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K04122",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K09539",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K09539",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K09539",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K02696",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02696",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K03322",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18461",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18461",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K09512",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K09512",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K12624",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K12624",
+            "target": "ko03041"
+        },
+        {
+            "source": "ko:K12624",
+            "target": "ko03019"
+        },
+        {
+            "source": "ko:K05747",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K05747",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K05747",
+            "target": "ko04812"
+        },
+        {
+            "source": "ko:K12639",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K12639",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K12639",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K03945",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13029",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K13029",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K13029",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K07410",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07410",
+            "target": "ko01000"
+        },
+        {
+            "source": "ko:K07410",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K02697",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02697",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00133"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K15718"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K17913"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00464"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K07408"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K11818"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00122"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K16219"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K18858"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K17972"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K04554"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K19038"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K06611"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K13034"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K19517"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00915"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K13428"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K19704"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K03538"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K13289"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K16296"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K11844"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K15235"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K08956"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K01512"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K06928"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K15271"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K15086"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K01832"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K01531"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K17783"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K07426"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00499"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K08241"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K18848"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K10583"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K00750"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K02548"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K04715"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K03006"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K01176"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K16290"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K01444"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K16329"
+        },
+        {
+            "source": "ko01000",
+            "target": "ko:K10526"
+        },
+        {
+            "source": "ko:K02634",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02634",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K02983"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K04554"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K15683"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K19038"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K16281"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K11844"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K15235"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K12175"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K10583"
+        },
+        {
+            "source": "ko04121",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko03009",
+            "target": "ko:K03538"
+        },
+        {
+            "source": "ko:K18848",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K19038",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17553",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07478",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18858",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko04812",
+            "target": "ko:K17292"
+        },
+        {
+            "source": "ko:K08762",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07426",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07426",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko:K13457",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K00133",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07192",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07192",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K07192",
+            "target": "ko04147"
+        },
+        {
+            "source": "ko:K08902",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08902",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K15271",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K15271",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K07890",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07890",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K07890",
+            "target": "ko04147"
+        },
+        {
+            "source": "ko:K07890",
+            "target": "ko04031"
+        },
+        {
+            "source": "ko03016",
+            "target": "ko:K03538"
+        },
+        {
+            "source": "ko03016",
+            "target": "ko:K15437"
+        },
+        {
+            "source": "ko:K17771",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17771",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K17771",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K02690",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02690",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K12621",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K12621",
+            "target": "ko03041"
+        },
+        {
+            "source": "ko:K12621",
+            "target": "ko03019"
+        },
+        {
+            "source": "ko:K17972",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17972",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K02887",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K00464",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K04715",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17783",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K17783",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K00915",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18182",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K18182",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K08903",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08903",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K03009",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K03009",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K03009",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko:K08956",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K08956",
+            "target": "ko01002"
+        },
+        {
+            "source": "ko:K08956",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K04798",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K04798",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K11844",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K11844",
+            "target": "ko01002"
+        },
+        {
+            "source": "ko:K07408",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K07408",
+            "target": "ko00199"
+        },
+        {
+            "source": "ko03019",
+            "target": "ko:K14398"
+        },
+        {
+            "source": "ko:K01176",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K06611",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02108",
+            "target": "ko00001"
+        },
+        {
+            "source": "ko:K02108",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K02108",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K01512"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K00122"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K19517"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K00416"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02110"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02637"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K13034"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K01832"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15718"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K06928"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K11818"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K09659"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15086"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K17913"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K10845"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K12832"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K12896"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02986"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02994"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02983"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K03538"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K04554"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K08504"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K19704"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K13289"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K19748"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K12127"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K13428"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15235"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K16296"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K05527"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15437"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15683"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K16281"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K12175"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K11672"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K18185"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K13862"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K17292"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K16219"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K01531"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K18813"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K00750"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02153"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02718"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02640"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K10526"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K08241"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K16329"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K00499"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K01444"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02548"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K03006"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02950"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02917"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K14398"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K10583"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K15360"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K16290"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K18485"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K17778"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K18187"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K17469"
+        },
+        {
+            "source": "ko00001",
+            "target": "ko:K02715"
+        },
+        {
+            "source": "ko:K02110",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko:K10845",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K10845",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko00199",
+            "target": "ko:K01832"
+        },
+        {
+            "source": "ko00199",
+            "target": "ko:K11818"
+        },
+        {
+            "source": "ko:K05527",
+            "target": "ko03000"
+        },
+        {
+            "source": "ko04147",
+            "target": "ko:K13289"
+        },
+        {
+            "source": "ko04147",
+            "target": "ko:K17292"
+        },
+        {
+            "source": "ko:K16290",
+            "target": "ko01002"
+        },
+        {
+            "source": "ko:K13428",
+            "target": "ko01001"
+        },
+        {
+            "source": "ko:K12896",
+            "target": "ko03041"
+        },
+        {
+            "source": "ko:K13289",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko:K13289",
+            "target": "ko01002"
+        },
+        {
+            "source": "ko:K13289",
+            "target": "ko03110"
+        },
+        {
+            "source": "ko:K08504",
+            "target": "ko04131"
+        },
+        {
+            "source": "ko01002",
+            "target": "ko:K15235"
+        },
+        {
+            "source": "ko01002",
+            "target": "ko:K16296"
+        },
+        {
+            "source": "ko01002",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko03000",
+            "target": "ko:K18485"
+        },
+        {
+            "source": "ko01006",
+            "target": "ko:K02548"
+        },
+        {
+            "source": "ko04131",
+            "target": "ko:K19748"
+        },
+        {
+            "source": "ko:K03538",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K15360",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K18187",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K18185",
+            "target": "ko03029"
+        },
+        {
+            "source": "ko:K03006",
+            "target": "ko03400"
+        },
+        {
+            "source": "ko:K03006",
+            "target": "ko03021"
+        },
+        {
+            "source": "ko:K02718",
+            "target": "ko00194"
+        },
+        {
+            "source": "ko03400",
+            "target": "ko:K11864"
+        },
+        {
+            "source": "ko00194",
+            "target": "ko:K02637"
+        },
+        {
+            "source": "ko00194",
+            "target": "ko:K02640"
+        },
+        {
+            "source": "ko03029",
+            "target": "ko:K17778"
+        },
+        {
+            "source": "ko:K12832",
+            "target": "ko03041"
+        }
+    ]
+}
